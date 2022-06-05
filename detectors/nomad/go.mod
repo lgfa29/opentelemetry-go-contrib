@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-go-contrib/detectors/nomad
+module go.opentelemetry.io/contrib/detectors/nomad
 
 go 1.17
 
